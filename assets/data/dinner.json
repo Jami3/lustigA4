@@ -1,0 +1,16 @@
+{
+    "foods": [{
+            "name": "Potatoes",
+            "price": 0.99,
+            "calories": 250
+        }, {
+            "name": "Steak",
+            "price": 8.99,
+            "calories": 300
+        }, {
+            "name": "Butter",
+            "price": 3.99,
+            "calories": 200
+        }]
+    
+}

@@ -1,0 +1,16 @@
+{
+    "foods": [{
+            "name": "French Fries",
+            "price": 2.99,
+            "calories": 400
+        }, {
+            "name": "Burger",
+            "price": 3.99,
+            "calories": 280
+        }, {
+            "name": "Soda",
+            "price": 1.99,
+            "calories": 280
+        }]
+    
+}

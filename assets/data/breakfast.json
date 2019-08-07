@@ -1,0 +1,16 @@
+{
+    "foods": [{
+            "name": "Bacon",
+            "price": 4.99,
+            "calories": 300
+        }, {
+            "name": "Eggs",
+            "price": 2.99,
+            "calories": 110
+        }, {
+            "name": "Milk",
+            "price": 3.99,
+            "calories": 180
+        }]
+    
+}
